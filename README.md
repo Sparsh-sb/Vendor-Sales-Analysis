@@ -90,6 +90,5 @@ To analyze vendor and brand performance using statistical analysis and visual da
 - Incorporate delivery time and vendor reliability metrics  
 - Add automated alerts for stock anomalies or margin drops  
 - Forecast unsold inventory using time-series modeling  
-- Integrate with real-time procurement dashboard
 
 ---
