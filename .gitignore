@@ -1,0 +1,15 @@
+# Ignore data files
+data/
+*.csv
+*.db
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and cache
+logs/
+__pycache__/
+*.log
+
+# Ignore compiled files
+*.pyc
