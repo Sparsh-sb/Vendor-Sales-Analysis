@@ -45,7 +45,7 @@ To analyze vendor and brand performance using statistical analysis and visual da
 ---
 
 ### 🏆 Top 10 Vendors by Purchase Contribution – Bar Chart  
-![Purchase Contribution of Top10](Images/PurchaseContributionofTop10)
+![Purchase Contribution of Top10](Images/PurchaseContributionofTop10.png)
 
   Visualizes how the top 10 vendors contribute to total purchases.  
   A few vendors dominate procurement, emphasizing the importance of strategic negotiations with them.
@@ -53,7 +53,7 @@ To analyze vendor and brand performance using statistical analysis and visual da
 ---
 
 ### 🍩 Top 10 Vendors by Purchase Contribution – Donut Chart  
-![Cumulative Purchase Comparison](Images/PurchaseContributionofTop10Donut)
+![Cumulative Purchase Comparison](Images/PurchaseContributionofTop10Donut.png)
 
   Reinforces the 80/20 principle — most of the purchase value comes from a small number of vendors.  
   This donut view helps in presenting cumulative contribution more compactly.
@@ -61,7 +61,7 @@ To analyze vendor and brand performance using statistical analysis and visual da
 ---
 
 ### 🧮 Top Vendors by Sales – Brand Comparison  
-![Top Vendors by Sales and Brands](Images/TopVendorsBySalesBrands)
+![Top Vendors by Sales and Brands](Images/TopVendorsBySalesBrands.png)
 
   Displays the total sales by brand for each top vendor.  
   Highlights brand-wise dominance and helps identify which vendor-brand combinations perform best — useful for partnership strategies and promotion planning.
