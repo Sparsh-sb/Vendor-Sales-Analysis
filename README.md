@@ -37,7 +37,7 @@ To analyze vendor and brand performance using statistical analysis and visual da
 ## 📊 Visualizations & Insights  
 
 ### 📈 Confidence Interval Comparison for Profit Margins
-![ConfidenceIntervalComparison](./outputs/Visualizations/ConfidenceIntervalComparison.png)
+![Confidence Interval Comparison](Images/ConfidenceIntervalComparison.png)
 
   Compares the 95% confidence intervals of profit margins for top and low-performing vendors.  
   Top vendors show higher, tighter profit margins, indicating consistent and strong performance. Low-performing vendors have wider intervals and lower margins, suggesting inconsistency or inefficiency.
